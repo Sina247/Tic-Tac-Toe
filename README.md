@@ -6,7 +6,7 @@ A classic two-player game where X and O compete on a 3x3 grid. Players take turn
 
 ## 🚀 Features  
 - 🎯 **Classic gameplay** : Easy to learn, fun to master.  
-- 🕹️ **Two-player mode** : Play against friends locally.  
+- 🕹️ **Two player mode** : Play against friends locally.  
 - 🎨 **Clean UI** : Simple and intuitive design.  
 - ⚡ **Fast and responsive** : Works seamlessly on all devices.  
 - 🔧 **Easy to customize** : Modify rules or styles with ease.
