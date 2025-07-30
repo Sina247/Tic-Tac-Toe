@@ -1,6 +1,6 @@
 # 🎲 Tic Tac Toe
 
-A classic two-player game where X and O compete on a 3x3 grid. Players take turns placing their marks, aiming to line up three in a row horizontally, vertically, or diagonally. Simple, fun, and perfect for all ages!
+A classic two player game where X and O compete on a 3x3 grid. Players take turns placing their marks, aiming to line up three in a row horizontally, vertically or diagonally. Simple, fun and perfect for all ages.
 
 ---
 
